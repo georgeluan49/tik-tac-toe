@@ -7,4 +7,4 @@ This is a picture of the game device.
 
 You can use the joy stick to place O's and X's onto the game board.
 
-The following video shows a demonstration of how the device works.
+[This video](https://drive.google.com/file/d/1xu_RuYDYeFWfi9AHcD9hCLMo0Cxis_JX/view?usp=sharing) shows a demonstration of how the device works.
